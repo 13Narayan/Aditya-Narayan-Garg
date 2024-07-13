@@ -1,4 +1,3 @@
-![logo](https://github.com/13Narayan/Aditya-Narayan-Garg/blob/main/images.jpg) 
 <h1 align="center">Hi 👋, I'm Aditya Narayan Garg</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 <img align="right"alt="coding"width="400"src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">

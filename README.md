@@ -1,7 +1,7 @@
 ![logo](https://github.com/13Narayan/Aditya-Narayan-Garg/blob/main/images.jpg) 
 <h1 align="center">Hi 👋, I'm Aditya Narayan Garg</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
-<img align="right"alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpresent.readthedocs.io%2Fen%2Flatest%2Fgallery%2Fwelcome-to-coding%2F&psig=AOvVaw1ylzmQ-0CmyOfQKuzY-6BX&ust=1720985962442000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDuuLripIcDFQAAAAAdAAAAABBw">
+<img align="right"alt="coding"width="400"src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=13narayan&label=Profile%20views&color=0e75b6&style=flat" alt="13narayan" /> </p>
 
 - 🔭 I’m currently working on [Sentiment Analysis from Online Reviews](https://github.com/13Narayan/Intel_Project/blob/main/Sentimental_analysis.ipynb)

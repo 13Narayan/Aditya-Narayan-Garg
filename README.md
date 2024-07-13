@@ -1,3 +1,4 @@
+![logo](https://github.com/13Narayan/Aditya-Narayan-Garg/blob/main/images.jpg) 
 <h1 align="center">Hi 👋, I'm Aditya Narayan Garg</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 <img align="right"alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw1ylzmQ-0CmyOfQKuzY-6BX&ust=1720985962442000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDuuLripIcDFQAAAAAdAAAAABBY">

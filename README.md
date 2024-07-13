@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F74C4C&width=435&lines=Hi+%F0%9F%91%8B%2C+I+m+Aadi.;Student+of+computer+science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F74C4C&width=435&lines=Hi+%F0%9F%91%8B%2C+I+m+Aadi.;)](https://git.io/typing-svg)
 <h3 align="center">A passionate software Engineer from India</h3>
 <img align="right"alt="coding"width="400"src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=13narayan&label=Profile%20views&color=0e75b6&style=flat" alt="13narayan" /> </p>
